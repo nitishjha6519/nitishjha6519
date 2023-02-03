@@ -10,17 +10,15 @@
   
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=nitishjha6519&style=flat-square&color=blue" alt=""/>
+
 
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
----
+
+
 
 </div>
 
@@ -57,11 +55,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+
+
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitishjha6519&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishjha6519&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nitishjha6519&rank=AA,B)](https://github.com/nitishjha6519/github-profile-trophy)
+  
+
+
+
+  
+
+
+
+
 
