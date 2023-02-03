@@ -35,6 +35,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -60,4 +62,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishjha6519&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nitishjha6519&rank=AA,B)](https://github.com/nitishjha6519/github-profile-trophy)
 
