@@ -53,12 +53,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </div>
 
----
 
-### :fire: My Stats :
+
+<!-- ### :fire: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitishjha6519&show_icons=true) 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitishjha6519)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitishjha6519)](https://git.io/streak-stats) -->
 
 
 
